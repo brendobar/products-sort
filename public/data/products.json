@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Смартфон X100",
+    "price": 299,
+    "brand": "TechPro",
+    "description": "Мощный смартфон с отличной камерой и быстрой зарядкой.",
+    "isNew": true
+  },
+  {
+    "id": 2,
+    "name": "Наушники BassBoost",
+    "price": 99,
+    "brand": "SoundMax",
+    "description": "Беспроводные наушники с глубоким басом и шумоподавлением.",
+    "isNew": false
+  },
+  {
+    "id": 3,
+    "name": "Умные часы FitTrack",
+    "price": 149,
+    "brand": "WellnessTech",
+    "description": "Отслеживание активности, сна и сердцебиения.",
+    "isNew": true
+  },
+  {
+    "id": 4,
+    "name": "Ноутбук UltraSlim 14",
+    "price": 999,
+    "brand": "TechPro",
+    "description": "Тонкий и лёгкий ноутбук с высокой производительностью.",
+    "isNew": false
+  },
+  {
+    "id": 5,
+    "name": "Планшет MediaTab",
+    "price": 399,
+    "brand": "DigitalWave",
+    "description": "Идеален для чтения, фильмов и интернет-сёрфинга.",
+    "isNew": false
+  },
+  {
+    "id": 6,
+    "name": "Портативная колонка BoomBox Mini",
+    "price": 59,
+    "brand": "SoundMax",
+    "description": "Мощный звук и влагозащита для любых условий.",
+    "isNew": true
+  },
+  {
+    "id": 7,
+    "name": "Геймпад ProController",
+    "price": 89,
+    "brand": "GameZone",
+    "description": "Поддержка всех популярных платформ и эргономичный дизайн.",
+    "isNew": true
+  },
+  {
+    "id": 8,
+    "name": "Кофемашина AromaBrew",
+    "price": 249,
+    "brand": "KitchenPlus",
+    "description": "Эспрессо, капучино и латте — как в кофейне.",
+    "isNew": false
+  },
+  {
+    "id": 9,
+    "name": "Монитор VisionWide 27\"",
+    "price": 329,
+    "brand": "TechPro",
+    "description": "Безрамочный IPS-дисплей с высоким разрешением.",
+    "isNew": false
+  },
+  {
+    "id": 10,
+    "name": "Робот-пылесос CleanMate",
+    "price": 199,
+    "brand": "SmartHome",
+    "description": "Автоматическая уборка с управлением через приложение.",
+    "isNew": true
+  }
+]
